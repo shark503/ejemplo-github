@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
-  printf("pvto");
+  printf("amen\n");
   int j=10;
   for(int i=0;i<j;i++)
-     printf("pvto\n");
+     printf("salve dios padre\n");
 }
